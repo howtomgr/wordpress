@@ -1,0 +1,67 @@
+{
+  "category": "cms",
+  "created_date": "2025-09-15T22:48:59.488769",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "php",
+    "php-mysql",
+    "php-xml",
+    "php-gd",
+    "php-curl",
+    "php-mbstring"
+  ],
+  "description": "wordpress is a free and open-source content management system. WordPress powers over 40% of the web with extensible CMS",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/cms/wordpress",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/cms/wordpress",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.488790",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "wordpress",
+  "repository_url": "https://github.com/howtomgr/wordpress",
+  "spec_version": "2.0",
+  "subcategory": "cms",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "cms",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "wordpress Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/cms/wordpress"
+}
